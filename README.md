@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="img/earthblurple2.gif" width="40" style="position: relative; top: 10px;"> Hello, I'm Cleyoo 👋
+  <img src="img/earthblurple2.gif" width="40" style="position: relative; top: -10px;"> Hello, I'm Cleyoo 👋
 </h1>
 
 ![Header](img/github-header-banner.png)
