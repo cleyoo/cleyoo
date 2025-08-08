@@ -7,6 +7,10 @@
 </div>
 
 ###
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="img/earthblurple2.gif" width="35">
+  <h1 style="margin: 0;">Hello, I'm Cleyoo 👋</h1>
+</div>
 
 <h3 align="left">🎮 Play games with me</h3>
 
