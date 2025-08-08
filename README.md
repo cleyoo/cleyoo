@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="img/earthblurple2.gif" width="40" style="position: relative; top: 5px;"> Hello, I'm Cleyoo 👋
+</h1>
+
+![Header](img/github-header-banner.png)
 
 <!--
 **cleyoo/cleyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
